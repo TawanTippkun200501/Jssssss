@@ -8,3 +8,12 @@
   กหดหกดหก
   dfsdfds
 */
+
+// document.write("team love cartoon")
+let i = "245524";
+a = +i;
+console.log(a, typeof a);
+
+let o = 4242342;
+y = ""+(o);
+console.log(y, typeof y);
