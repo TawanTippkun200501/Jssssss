@@ -1,5 +1,5 @@
 console.log('Hello World!');
-document.write("<h1>Team and cartoon levo</h1>");
+//document.write("<h1>Team and cartoon levo</h1>");
 
 
 console.log("team levo cartoon");

@@ -1,6 +1,15 @@
-html{
-  background-color: slategray;
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
-a{
-  background-color: white;
+
+.t{
+  height: 60px;
+  color:#fff;
+  background-color: rosybrown;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
 }
